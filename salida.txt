@@ -1,0 +1,8 @@
+oracion 0 error sintactico
+oracion 1 ok
+oracion 2 ok
+oracion 3 ok
+oracion 4 error sintactico
+oracion 5 ok
+oracion 6 error sintactico
+oracion 7 error sintactico
